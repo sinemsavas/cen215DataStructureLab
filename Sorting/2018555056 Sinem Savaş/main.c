@@ -484,6 +484,5 @@ int main() {
     printf("%s\n", name3);
     printf("Time of quick char: %f\n", (double)start / CLOCKS_PER_SEC);
 
-
     return 0;
 } 
